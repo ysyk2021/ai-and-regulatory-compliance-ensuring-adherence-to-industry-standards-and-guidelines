@@ -1,5 +1,3 @@
-Regulatory Reporting and Auditing
-===========================================================================================
 
 Regulatory reporting and auditing are critical components of regulatory compliance. The use of AI-based techniques and strategies can help businesses ensure accuracy and efficiency in these areas. In this chapter, we'll explore how AI can be used for regulatory reporting and auditing.
 

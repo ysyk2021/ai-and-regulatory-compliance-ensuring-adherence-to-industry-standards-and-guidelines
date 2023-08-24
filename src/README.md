@@ -1,4 +1,3 @@
-# Introduction
 
 The rise of artificial intelligence (AI) has brought about many changes in the way businesses operate. One area where AI is having a significant impact is regulatory compliance. Compliance with industry standards and guidelines is critical for businesses in many industries, but it can also be time-consuming and costly.
 

@@ -1,5 +1,3 @@
-Cloud Computing and Big Data Analytics
-=============================================================================================================
 
 In this chapter, we will explore the integration of AI-based regulatory compliance into business processes through cloud computing and big data analytics. We will discuss how businesses can leverage these technologies to effectively manage compliance risks and ensure adherence to industry standards and guidelines.
 

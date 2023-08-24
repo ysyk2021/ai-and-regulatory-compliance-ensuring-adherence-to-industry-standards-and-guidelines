@@ -1,5 +1,3 @@
-Cybersecurity and Privacy
-================================================================================================
 
 Integrating AI-based regulatory compliance into business processes can improve efficiency, reduce risk, and enhance overall performance. However, businesses must also consider the potential risks to cybersecurity and privacy that come with the use of AI technologies. In this chapter, we'll explore how to ensure cybersecurity and privacy when integrating AI-based regulatory compliance into business processes.
 

@@ -1,5 +1,3 @@
-Fraud Detection and Prevention
-========================================================================================
 
 Fraud detection and prevention is a critical component of regulatory compliance in many industries. The use of AI-based techniques and strategies can help businesses identify potential fraud and prevent non-compliance. In this chapter, we'll explore how AI can be used for fraud detection and prevention.
 

@@ -1,5 +1,3 @@
-Integration of AI-Based Regulatory Compliance into Business Processes
-=====================================================================
 
 Integrating AI-based regulatory compliance into business processes can help ensure ongoing adherence to industry standards and guidelines while improving efficiency and reducing costs. In this chapter, we'll explore how AI-based regulatory compliance can be integrated into various business processes.
 
@@ -46,5 +44,4 @@ The integration of AI-based regulatory compliance into business processes offers
 * Enhanced risk management: By identifying potential compliance risks and taking action to mitigate them, businesses can better manage their compliance-related risks.
 
 By integrating AI-based regulatory compliance into their business processes, businesses can ensure ongoing compliance with industry standards and guidelines while improving efficiency, accuracy, and risk management.
-
 

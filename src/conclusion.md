@@ -1,4 +1,3 @@
-# Conclusion
 
 The use of AI technologies in regulatory compliance offers many benefits, including increased efficiency, accuracy, and risk management. However, it also raises ethical concerns related to privacy, bias, and discrimination. In this chapter, we'll summarize key takeaways from this book, explore implications for the future of AI-based regulatory compliance, and provide final thoughts and recommendations.
 

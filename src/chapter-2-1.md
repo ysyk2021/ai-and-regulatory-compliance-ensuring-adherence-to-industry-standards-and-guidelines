@@ -1,5 +1,3 @@
-Overview of Regulatory Compliance
-======================================================================
 
 Regulatory compliance is the process of ensuring that businesses operate in accordance with industry standards and guidelines set by regulatory bodies and government agencies. These regulations are intended to protect the interests of consumers, employees, shareholders, and other stakeholders, and non-compliance can have serious legal and financial consequences.
 

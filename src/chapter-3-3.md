@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Regulatory Compliance
-========================================================================================================
 
 In this chapter, we will explore case studies that demonstrate the use of artificial intelligence (AI) in regulatory compliance. We will discuss how businesses across various industries have leveraged AI-based technologies to effectively manage compliance risks and ensure adherence to industry standards and guidelines.
 

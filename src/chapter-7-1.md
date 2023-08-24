@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Regulatory Compliance
-=============================================================================================
 
 The use of AI technologies in regulatory compliance offers many benefits, but it also raises ethical concerns. In this chapter, we'll explore some of the ethical issues associated with the use of AI in regulatory compliance.
 

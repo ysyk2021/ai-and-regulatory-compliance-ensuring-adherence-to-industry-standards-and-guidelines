@@ -1,5 +1,3 @@
-Artificial Intelligence in Regulatory Compliance
-================================================
 
 In this chapter, we will explore the use of artificial intelligence (AI) in regulatory compliance. We will discuss the different types of AI and their applications in compliance management, as well as the advantages and limitations of these technologies. Additionally, we will highlight case studies demonstrating the effectiveness of AI-based solutions in regulatory compliance.
 

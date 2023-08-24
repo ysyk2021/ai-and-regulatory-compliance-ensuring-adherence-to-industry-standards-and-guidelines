@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Regulatory Compliance
-==================================================================================================================================
 
 In this chapter, we will explore types of artificial intelligence (AI) and their applications in regulatory compliance. By understanding the different types of AI, businesses can better identify and leverage the technologies that are most applicable to their specific compliance needs.
 

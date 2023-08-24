@@ -1,5 +1,3 @@
-Overview of AI-Based Regulatory Compliance Techniques and Strategies
-==============================================================================================================================
 
 The use of AI-based techniques and strategies has the potential to transform regulatory compliance management by enabling real-time monitoring, automated risk assessments, and improved data analysis capabilities. In this chapter, we will provide an overview of the different AI-based regulatory compliance techniques and strategies that businesses can utilize.
 

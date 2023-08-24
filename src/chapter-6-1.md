@@ -1,5 +1,3 @@
-Overview of Integrating AI-Based Regulatory Compliance into Business Processes
-=====================================================================================================================================================
 
 As businesses increasingly rely on artificial intelligence (AI) technologies, it's important to ensure that these technologies adhere to industry standards and guidelines. One key area of focus is regulatory compliance, which can have significant legal and financial implications if not properly addressed. In this chapter, we'll provide an overview of integrating AI-based regulatory compliance into business processes.
 

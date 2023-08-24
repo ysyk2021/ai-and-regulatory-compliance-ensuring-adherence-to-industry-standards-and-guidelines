@@ -1,5 +1,3 @@
-Transactional and Behavioral Data
-=========================================================================================
 
 In this chapter, we will discuss the importance of data collection and analysis for regulatory compliance and how businesses can leverage transactional and behavioral data to ensure adherence to industry standards and guidelines.
 

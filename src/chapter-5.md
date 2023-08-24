@@ -1,5 +1,3 @@
-AI-Based Regulatory Compliance Techniques and Strategies
-========================================================
 
 AI-based regulatory compliance techniques and strategies offer many benefits to businesses, including increased efficiency, accuracy, and cost savings. In this chapter, we'll explore some of the key techniques and strategies used in AI-based regulatory compliance.
 

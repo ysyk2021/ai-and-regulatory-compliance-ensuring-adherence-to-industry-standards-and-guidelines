@@ -1,5 +1,3 @@
-Automated Risk Assessment and Mitigation
-==================================================================================================
 
 Automated risk assessment and mitigation is a key strategy in AI-based regulatory compliance management. By leveraging AI algorithms to automatically assess and mitigate compliance risks, businesses can more efficiently and effectively manage their compliance obligations. In this chapter, we will explore how automated risk assessment and mitigation works and discuss some of the key considerations that businesses should keep in mind when implementing this approach.
 

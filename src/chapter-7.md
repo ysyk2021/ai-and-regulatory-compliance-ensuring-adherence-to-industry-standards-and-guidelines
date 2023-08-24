@@ -1,5 +1,3 @@
-Ethical Considerations in AI-Based Regulatory Compliance
-========================================================
 
 The use of AI technologies in regulatory compliance offers many benefits, but it also raises ethical concerns related to privacy, bias, and discrimination. In this chapter, we'll explore the ethical considerations associated with the use of AI in regulatory compliance and best practices for ensuring ethical and responsible AI.
 

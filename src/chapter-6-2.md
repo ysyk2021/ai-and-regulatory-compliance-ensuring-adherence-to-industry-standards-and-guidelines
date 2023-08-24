@@ -1,5 +1,3 @@
-IoT and Edge Computing
-=============================================================================================
 
 As businesses increasingly rely on AI technologies, it's important to ensure that these technologies adhere to industry standards and guidelines. One key area of focus is regulatory compliance, which can have significant legal and financial implications if not properly addressed. In this chapter, we'll explore how the integration of AI-based regulatory compliance into business processes can be achieved through the use of IoT and edge computing.
 
@@ -30,5 +28,4 @@ To successfully integrate AI-based regulatory compliance into business processes
 * Regularly review and update compliance processes as needed.
 
 By successfully integrating AI-based regulatory compliance into business processes using IoT and edge computing, businesses can achieve greater efficiency, reduce the risk of non-compliance, and enhance overall performance.
-
 

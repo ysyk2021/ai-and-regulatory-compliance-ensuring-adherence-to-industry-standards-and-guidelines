@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Regulatory Compliance
-===========================================================================================================
 
 In this chapter, we will discuss the advantages and limitations of artificial intelligence (AI) in regulatory compliance. By understanding the strengths and risks of AI-based technologies, businesses can make informed decisions when implementing compliance management solutions.
 

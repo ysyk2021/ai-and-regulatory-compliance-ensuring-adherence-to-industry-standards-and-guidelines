@@ -1,5 +1,3 @@
-Environmental and Safety Data
-=====================================================================================
 
 Environmental and safety regulations are key areas of regulatory compliance that businesses must adhere to. The use of AI technologies for data collection and analysis can help businesses ensure compliance with these regulations. In this chapter, we'll explore how to collect and analyze environmental and safety data for regulatory compliance using AI.
 

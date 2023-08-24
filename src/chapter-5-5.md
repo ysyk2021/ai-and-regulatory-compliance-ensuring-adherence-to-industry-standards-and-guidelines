@@ -1,5 +1,3 @@
-Anti-Money Laundering and Know Your Customer Compliance
-=================================================================================================================
 
 Anti-money laundering (AML) and know your customer (KYC) compliance are critical components of regulatory compliance in the financial industry. The use of AI-based techniques and strategies can help businesses ensure compliance with these regulations. In this chapter, we'll explore how AI can be used for AML and KYC compliance.
 

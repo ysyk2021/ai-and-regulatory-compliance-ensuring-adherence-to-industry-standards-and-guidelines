@@ -1,5 +1,3 @@
-Human-Machine Interfaces and Decision Support Systems
-============================================================================================================================
 
 In this chapter, we will explore the integration of AI-based regulatory compliance into business processes through the use of human-machine interfaces (HMIs) and decision support systems (DSSs). We will examine how businesses can leverage AI technology to ensure adherence to industry standards and guidelines, and effectively manage regulatory compliance.
 

@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Regulatory Compliance
-==========================================================================================================================
 
 In this chapter, we will provide an overview of data collection and analysis for regulatory compliance. We will discuss the importance of data collection and analysis for compliance management and examine how businesses can leverage AI-based technologies to effectively manage compliance risks.
 

@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Regulatory Compliance
-===============================================================================================
 
 Artificial intelligence (AI) refers to the ability of machines to perform tasks that typically require human intelligence, such as natural language processing, image recognition, and decision-making. AI-based technologies have advanced significantly in recent years and are increasingly being applied in various industries, including regulatory compliance management.
 

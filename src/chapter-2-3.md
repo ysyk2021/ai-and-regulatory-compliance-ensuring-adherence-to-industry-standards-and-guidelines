@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-=========================================================================================
 
 In this chapter, we will explore the limitations and challenges of traditional approaches to regulatory compliance. By understanding these limitations, businesses can identify opportunities for improvement and explore the potential benefits of leveraging AI-based technologies in compliance management.
 

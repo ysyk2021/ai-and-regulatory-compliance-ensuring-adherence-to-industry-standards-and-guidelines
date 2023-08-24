@@ -1,5 +1,3 @@
-Objectives of the Book
-==================================================
 
 Welcome to "AI and Regulatory Compliance: Ensuring Adherence to Industry Standards and Guidelines". This book is written for businesses and individuals who are interested in exploring the potential benefits and applications of artificial intelligence (AI) in regulatory compliance management.
 

@@ -1,5 +1,3 @@
-Contract and Legal Documentation
-========================================================================================
 
 In this chapter, we will explore the importance of data collection and analysis for regulatory compliance related to contract and legal documentation. We will discuss how businesses can leverage AI-based technologies to effectively manage compliance risks related to contract and legal documentation adherence to industry standards and guidelines.
 
